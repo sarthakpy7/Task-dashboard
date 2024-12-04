@@ -16,7 +16,7 @@ This is a professional task management dashboard application built using React, 
 - **Routing**: React Router
 
 ## Live Demo
-You can check out the live version of this project [here](https://dashboard-git-main-sarthak-singhs-projects-39d2b9eb.vercel.app/)
+You can check out the live version of this project [here](https://uidashbaord.netlify.app/)
 
 ## Installation
 
